@@ -1,6 +1,8 @@
 # Lee Chae Rin (Bryn)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcofls6581%2Fhit-counter&count_bg=%237DB5E7&title_bg=%238684D9&icon=&icon_color=%23F5F5F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there 👋 I'm Chae Rin, a growing backend developer 🗾 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcofls6581%2Fhit-counter&count_bg=%237DB5E7&title_bg=%238684D9&icon=&icon_color=%23F5F5F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+부족하지만 매번 결핍을 느끼고자 노력하며 부족한 부분들을 채워나가고자 노력하고있습니다!  
+### Hi there 👋 I'm Chae Rin, a growing backend developer  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cofls6581&&show_icons=true&theme=blueberry)
 ### :fire:study:fire:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
