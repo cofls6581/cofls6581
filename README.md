@@ -10,11 +10,11 @@
 <li>스터디: 자바 스크립트,자바 기초 <sub>(2021.01 ~ 2021.02)</sub></li>
 <li>부트 캠프 BE 우수 수료(스프링 부트): <a href="https://github.com/cofls6581/idus-server">아이디어스 클론코딩</a> <sub>(2021.07 ~ 2021.08)</sub></li>
 <li>스터디: <a href="https://github.com/cofls6581/hongjangal">알고리즘</a> <sub>(2021.09 ~ 진행중)</sub></li>
-<li>스터디: <a href="https://cofls6581.tistory.com/136">토비의 스프링 책</a> <sub>(2021.12~2022.03)</sub></li>
-<li>BE 사이드 프로젝트: <a href="https://github.com/whereismyteam/backend_dev_whereismyteam">구해줘 팀원</a> <sub>(2022.01 ~ 2022.03)</sub></li>
+<li>스터디: <a href="https://cofls6581.tistory.com/136">토비의 스프링</a> <sub>(2021.12~2022.03)</sub></li>
+<li>BE 사이드 프로젝트: <a href="https://github.com/whereismyteam/backend_dev_whereismyteam">구해줘 팀원(스프링 부트)</a> <sub>(2022.01 ~ 2022.03)</sub></li>
 <li>기획 기업 프로젝트: 페르소나 선정을 통한 이벤트 페이지 기획 <sub>(2022.03 2주)</sub></li>
 <li>외주: 중소기업 앱/웹 개발(스프링 부트) <sub>(2022.03 ~ 2022.12)</sub></li>
-<li>BE 사이드 프로젝트:  <a href="https://github.com/Gosrock/DuDoong-Backend">두둥</a> <sub>(2023.01 ~ 진행중)</sub></li>
+<li>BE 사이드 프로젝트:  <a href="https://github.com/Gosrock/DuDoong-Backend">두둥(스프링 부트)</a> <sub>(2023.01 ~ 진행중)</sub></li>
 
 ### :fire:Study:fire:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
