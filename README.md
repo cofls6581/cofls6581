@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Chaerin%20Lee%20(Bryn)&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=170&section=header&text=Chaerin%20Lee%20(Bryn)&fontSize=90&animation=twinkling)
 
 ### Hi there 👋 I'm Chaerin, a growing backend developer  
 부족하지만 매번 결핍을 느끼고자 노력하며 부족한 부분들을 채워나가고자 노력하고있습니다!  
