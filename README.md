@@ -8,7 +8,7 @@
 <li>스터디: C언어 <sub>(2019.07~2019.08)</sub></li>
 <li>FE 사이드 프로젝트: <a href="https://github.com/cofls6581/CodingWithMePublic">코딩윗미</a> <sub>(2020.07 ~ 2020.08)</sub></li>
 <li>스터디: 자바 스크립트,자바 기초 <sub>(2021.01 ~ 2021.02)</sub></li>
-<li>부트 캠프 BE 우수 수료(스프링 부트): <a href="https://github.com/cofls6581/idus-server">아이디어스 클론코딩</a> <sub>(2021.07 ~ 2021.08)</sub></li>
+<li>부트 캠프 BE 우수 수료: <a href="https://github.com/cofls6581/idus-server">아이디어스 클론코딩(스프링 부트)</a> <sub>(2021.07 ~ 2021.08)</sub></li>
 <li>스터디: <a href="https://github.com/cofls6581/hongjangal">알고리즘</a> <sub>(2021.09 ~ 진행중)</sub></li>
 <li>스터디: <a href="https://cofls6581.tistory.com/136">토비의 스프링</a> <sub>(2021.12~2022.03)</sub></li>
 <li>BE 사이드 프로젝트: <a href="https://github.com/whereismyteam/backend_dev_whereismyteam">구해줘 팀원(스프링 부트)</a> <sub>(2022.01 ~ 2022.03)</sub></li>
