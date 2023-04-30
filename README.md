@@ -14,9 +14,11 @@
 <li>스터디: <a href="https://cofls6581.tistory.com/136">토비의 스프링</a> <sub>(2021.12~2022.03)</sub></li>
 <li>BE,기획 사이드 프로젝트: <a href="https://github.com/whereismyteam/backend_dev_whereismyteam">구해줘 팀원(스프링 부트)</a> <sub>(2022.01 ~ 2022.03)</sub></li>
 <li>기획 기업 프로젝트: 페르소나 선정을 통한 이벤트 페이지 기획 <sub>(2022.03 2주)</sub></li>
-<li>외주: 중소기업 앱/웹 개발(스프링 부트) <sub>(2022.03 ~ 2022.12)</sub></li>
+<li>외주: 중소기업 앱/관리자웹 개발(스프링 부트, gitlab private) <sub>(2022.03 ~ 2022.12)</sub></li>
 <li>정보처리기사 자격증 취득 <sub>(2022.11)</sub></li>
 <li>BE 사이드 프로젝트:  <a href="https://github.com/Gosrock/DuDoong-Backend">두둥(스프링 부트)</a> <sub>(2023.01 ~ 2023.02)</sub></li>
+<li>GDSC(Google Developer Student Clubs) hongik open community member <sub>(2023.03 ~)</sub></li>
+<li><a href="https://www.yapp.co.kr/">YAPP</a> 22기 백엔드 <sub>(2023.04 ~)</sub></li>
 
 ### :fire:Study:fire:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
