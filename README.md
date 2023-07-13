@@ -3,12 +3,12 @@
 <br>
  
 # Project  
-<p>BE 사이드 프로젝트:  <a href="https://github.com/Gosrock/DuDoong-Backend">두둥(스프링 부트 jpa)</a> <sub>(2023.01 ~ 2023.03) 5인</sub> 
-<p>BE 외주: 중소기업 앱/관리자웹 개발(스프링 부트 jpa, gitlab private) <sub>(2022.03 ~ 2022.12) 1인(5개월)+2인(4개월)</sub> 
-<p>기획 기업 프로젝트: 페르소나 선정을 통한 이벤트 페이지 기획 <sub>(2022.03) 4인</sub> 
-<p>BE,기획 사이드 프로젝트: <a href="https://github.com/whereismyteam/backend_dev_whereismyteam">구해줘 팀원(스프링 부트 jpa)</a> <sub>(2022.01 ~ 2022.03) 2인</sub> 
-<p>BE 라이징 캠프 우수 수료: <a href="https://github.com/cofls6581/idus-server">아이디어스 클론코딩(스프링 부트 jdbc)</a> <sub>(2021.07 ~ 2021.08) 1인</sub>
-<p>FE,기획 사이드 프로젝트: <a href="https://github.com/cofls6581/CodingWithMePublic">코딩윗미</a> <sub>(2020.07 ~ 2020.08) 2인</sub> 
+<p>BE 사이드 프로젝트:  <a href="https://github.com/Gosrock/DuDoong-Backend">두둥(스프링 부트 jpa)</a> <sub>(2023.01 ~ 2023.03) BE 5인</sub> 
+<p>BE 외주: 중소기업 앱/관리자웹 개발(스프링 부트 jpa, gitlab private) <sub>(2022.03 ~ 2022.12) BE 1인(5개월)+2인(4개월)</sub> 
+<p>기획 기업 프로젝트: 페르소나 선정을 통한 이벤트 페이지 기획 <sub>(2022.03) BE 4인</sub> 
+<p>BE,기획 사이드 프로젝트: <a href="https://github.com/whereismyteam/backend_dev_whereismyteam">구해줘 팀원(스프링 부트 jpa)</a> <sub>(2022.01 ~ 2022.03) BE 2인</sub> 
+<p>BE 라이징 캠프 우수 수료: <a href="https://github.com/cofls6581/idus-server">아이디어스 클론코딩(스프링 부트 jdbc)</a> <sub>(2021.07 ~ 2021.08) BE 1인</sub>
+<p>FE,기획 사이드 프로젝트: <a href="https://github.com/cofls6581/CodingWithMePublic">코딩윗미</a> <sub>(2020.07 ~ 2020.08) BE 2인</sub> 
 <br><br><br>
  
  - - -
