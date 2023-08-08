@@ -3,7 +3,7 @@
 <br>
  
 # Project  
-<p>BE 사이드 프로젝트:  <a href="https://github.com/YAPP-Github/mukpat-server">먹팟</a> <sub>(2023.04 ~ 현재) BE 2인</sub>
+<p>BE 사이드 프로젝트:  <a href="https://github.com/YAPP-Github/mukpat-server">먹팟</a> <sub>(2023.04 ~ 2023.07) BE 2인</sub>
 <p>BE 사이드 프로젝트:  <a href="https://github.com/Gosrock/DuDoong-Backend">두둥</a> <sub>(2023.01 ~ 2023.03) BE 5인</sub> 
 <p>BE 외주: 중소기업 앱/관리자웹 개발 (private) <sub>(2022.03 ~ 2022.12) BE 1인(5개월)+2인(4개월)</sub> 
 <p>기획 기업 프로젝트: 페르소나 선정을 통한 이벤트 페이지 기획 <sub>(2022.03) 기획 4인</sub> 
@@ -15,15 +15,15 @@
  - - -
  
 # History  
-<p><a href="https://www.yapp.co.kr/">YAPP</a> 22기 백엔드 <sub>(2023.04 ~ 현재)</sub>
-<p><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> Open Community member <sub>(2023.03 ~ 현재)</sub>
+<p><a href="https://www.yapp.co.kr/">YAPP</a> 22기 백엔드 <sub>(2023.04 ~ 2023.08)</sub>
+<p><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> Open Community member <sub>(2023.03 ~)</sub>
 <p>정보처리기사 자격증 취득 <sub>(2022.11)</sub>
-<p>스터디: <a href="https://github.com/YAPP-Github/22nd-Study-CS">CS 지식</a> <sub>(2023.04 ~ 현재)</sub>
+<p>스터디: <a href="https://github.com/YAPP-Github/22nd-Study-CS">CS 지식</a> <sub>(2023.04 ~)</sub>
 <p>스터디: <a href="https://cofls6581.tistory.com/136">토비의 스프링</a> <sub>(2021.12~2022.03)</sub>
-<p>스터디: <a href="https://github.com/cofls6581/hongjangal">알고리즘</a> <sub>(2021.09 ~ 현재)</sub>
+<p>스터디: <a href="https://github.com/cofls6581/hongjangal">알고리즘</a> <sub>(2021.09 ~)</sub>
 <p>스터디: 자바, 자바스크립트 기초 <sub>(2021.01 ~ 2021.02)</sub>
 <p>스터디: C언어 <sub>(2019.07~2019.08)</sub>
-<p>홍익대학교 컴퓨터공학과 <sub>(2019.03 ~ 현재)</sub> 
+<p>홍익대학교 컴퓨터공학과 <sub>(2019.03 ~)</sub> 
 <br><br><br>
  
  - - -
