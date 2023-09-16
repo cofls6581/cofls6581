@@ -16,7 +16,6 @@
  
 # History  
 <p><a href="https://www.yapp.co.kr/">YAPP</a> 22기 백엔드 <sub>(2023.04 ~ 2023.08)</sub>
-<p><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> Open Community member <sub>(2023.03 ~)</sub>
 <p>정보처리기사 자격증 취득 <sub>(2022.11)</sub>
 <p>스터디: <a href="https://github.com/YAPP-Github/22nd-Study-CS">CS 지식</a> <sub>(2023.04 ~)</sub>
 <p>스터디: <a href="https://cofls6581.tistory.com/136">토비의 스프링</a> <sub>(2021.12~2022.03)</sub>
