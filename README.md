@@ -17,7 +17,7 @@
 # History  
 <p><a href="https://www.yapp.co.kr/">YAPP</a> 22기 백엔드 <sub>(2023.04 ~ 2023.08)</sub>
 <p>정보처리기사 자격증 취득 <sub>(2022.11)</sub>
-<p>스터디: <a href="https://github.com/YAPP-Github/22nd-Study-CS">CS 지식</a> <sub>(2023.04 ~)</sub>
+<p>스터디: <a href="https://github.com/YAPP-Github/22nd-Study-CS">CS 지식</a> <sub>(2023.04 ~ 2023.08)</sub>
 <p>스터디: <a href="https://cofls6581.tistory.com/136">토비의 스프링</a> <sub>(2021.12~2022.03)</sub>
 <p>스터디: <a href="https://github.com/cofls6581/hongjangal">알고리즘</a> <sub>(2021.09 ~)</sub>
 <p>스터디: 자바, 자바스크립트 기초 <sub>(2021.01 ~ 2021.02)</sub>
@@ -54,9 +54,5 @@
 <img src="https://img.shields.io/badge/Tistory-184D66?style=flat-square&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/%EC%B1%84%EB%A6%B0-%EC%9D%B4-a902b0227/" >
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logoColor=white alt=linkedin" /> </a>
-
-### Resume  
-<a href="https://emphasized-payment-26d.notion.site/34a14a2290574346a091eff4452be38a?pvs=4">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> </a>  
 
 </div>
